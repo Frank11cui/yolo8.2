@@ -2,7 +2,7 @@ import math
 import torch
 import torch.nn as nn
 from torch.nn.modules.utils import _pair
-from mmcv.ops import modulated_deform_conv2d
+#from mmcv.ops import modulated_deform_conv2d
 
 __all__ = ['AirNet']
 
